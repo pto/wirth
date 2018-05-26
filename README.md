@@ -1,2 +1,2 @@
 # wirth
-Algorithms + Data Structures = Programs
+Algorithms + Data Structures = Programs in Go
