@@ -15,6 +15,11 @@ func Example() {
 	// .0009765625
 }
 
+func ExamplePower_parm0() {
+	Power(0)
+	// Output:
+}
+
 func ExamplePower_parm1() {
 	Power(1)
 	// Output:
@@ -37,8 +42,8 @@ func ExamplePower_parm5() {
 	// .0625
 	// .03125
 }
-func ExamplePower_parm11() {
-	Power(11)
+func ExamplePower_parm12() {
+	Power(12)
 	// Output:
 	// .5
 	// .25
@@ -51,4 +56,5 @@ func ExamplePower_parm11() {
 	// .001953125
 	// .0009765625
 	// .00048828125
+	// .000244140625
 }
